@@ -1,0 +1,5 @@
+bcd 16
+efg 15
+abc 15
+def 17
+cde 14

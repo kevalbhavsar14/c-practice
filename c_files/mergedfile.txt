@@ -1,0 +1,9 @@
+Hello world!
+HELLO WORLD!
+This is my file.
+THIS IS MY FILE.
+abc
+ABC
+def
+DEF
+C languageC LANGUAGE
